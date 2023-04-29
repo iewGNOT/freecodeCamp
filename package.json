@@ -1,1 +1,17 @@
-"author": "Jane Doe",
+{
+  "name": "freecideCamp",
+  "version": "1.0.0",
+  "description": "abcde123",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iewGNOT/freecodeCamp/edit/main/package.json"
+  },
+  "author": "123",
+  "license": "none",
+  "dependencies": {},
+  "devDependencies": {}
+}

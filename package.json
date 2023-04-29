@@ -1,19 +1,18 @@
 {
-  "name": "123",
-  "version": "1.0.0",
-  "description": "123",
-  "main": "index.js",
+  "name": "fcc-learn-npm-package-json",
+  "author": "foobar",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.11.2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/your-project.git"
-  },
-  "author": {
-    "name": "123",
-  },
-  "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {}
+    "url": "https://idontknow/todo.git"
+  }
 }

@@ -1,17 +1,19 @@
 {
-  "name": "freecideCamp",
+  "name": "123",
   "version": "1.0.0",
-  "description": "abcde123",
+  "description": "123",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iewGNOT/freecodeCamp/edit/main/package.json"
+    "url": "https://github.com/yourusername/your-project.git"
   },
-  "author": "123",
-  "license": "none",
+  "author": {
+    "name": "123",
+  },
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {}
 }
